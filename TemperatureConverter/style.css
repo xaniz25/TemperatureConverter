@@ -1,0 +1,8 @@
+﻿body {
+    background-image: url(../images/thermometer.jpg);
+    background-size: cover;
+    background-position-x: right;
+    font-family: Arial;
+    font-size: large;
+    margin: 10px;
+}
